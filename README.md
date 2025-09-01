@@ -1,6 +1,6 @@
 # COMP4128-DIS Docker
 
-## Author: Original from Stuart Reeves, Modified by Kian Ming Lim 
+## Author: Original from Stuart Reeves's [repo](https://github.com/stuaart/dis-docker), Modified by Kian Ming Lim 
 
 Docker files for COMP4128-DIS (Databases, Interfaces and Software Design Principles) L4 module.
 
