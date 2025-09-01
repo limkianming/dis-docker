@@ -1,8 +1,8 @@
-# COMP4039-DIS Docker
+# COMP4128-DIS Docker
 
-## author: Stuart Reeves
+## Author: Original from Stuart Reeves, Modified by Kian Ming Lim 
 
-Docker files for COMP4039-DIS (Databases, Interfaces and Software Design Principles) L4 module.
+Docker files for COMP4128-DIS (Databases, Interfaces and Software Design Principles) L4 module.
 
 Contains the principal components of the standard LAMP (Linux, Apache, MySQL, PHP) stack:
 - apache2 (web server)
