@@ -1,6 +1,4 @@
 # LAMP docker compose file for COMP4128
-version: '3'
-
 services:
   php-apache:
     #image: php:8.1-apache
