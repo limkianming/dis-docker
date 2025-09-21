@@ -1,4 +1,4 @@
-FROM mariadb:10.8
+FROM mariadb:latest
 MAINTAINER Kian Ming Lim
 ENV MYSQL_ALLOW_EMPTY_PASSWORD no
 ENV MYSQL_ROOT_PASSWORD rootpwd
