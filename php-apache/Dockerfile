@@ -1,4 +1,4 @@
-FROM php:8.1-apache
+FROM php:8.2-apache
 MAINTAINER Kian Ming Lim
 #RUN a2enmod rewrite
 #RUN sed -i 's/AllowOverride None/AllowOverride FileInfo/' /etc/apache2/apache2.conf
