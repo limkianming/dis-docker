@@ -16,7 +16,7 @@ services:
       context: ./mariadb
     restart: always
     ports:
-      - "3306:3306"          
+      - "3307:3306"          
     volumes:
       - ./mariadb-data:/var/lib/mysql
     environment:
